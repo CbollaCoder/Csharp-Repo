@@ -36,6 +36,23 @@ namespace Principal
             Console.WriteLine(res3);
             Console.WriteLine(res4);
 
+            //CALCULADORA
+            float a, b;
+            float div;
+
+            Console.WriteLine("CALCULADORA");
+
+            Console.WriteLine("Introducir a:");
+            a = Int32.Parse(Console.ReadLine());
+            Console.WriteLine("Introducir b");
+            b = Int32.Parse(Console.ReadLine());
+
+            Console.WriteLine("Suma:" + (a + b));
+            Console.WriteLine("Resta: " + (a - b));
+            Console.WriteLine("Multiplicacion: " + (a * b));
+            div = (a / b);
+            Console.WriteLine("Division: " + div);
+            Console.WriteLine("Modulo: " + (a % b));
 
             Console.ReadKey();
 
