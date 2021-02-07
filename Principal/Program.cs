@@ -10,7 +10,15 @@ namespace Principal
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundo!");
+            int numero = 123;
+            string cadena = "Luna";
+            char letraB = 'b';
+            float flotanteF = 12.35f;
+
+            Console.WriteLine("El numero es: "+numero);
+            Console.WriteLine("La cadena es: " +cadena);
+            Console.WriteLine("La letra es: " + letraB);
+            Console.WriteLine("El flotante es: " + flotanteF);
             Console.ReadKey();
         }
     }

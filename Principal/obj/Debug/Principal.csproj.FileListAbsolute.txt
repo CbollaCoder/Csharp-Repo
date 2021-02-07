@@ -4,3 +4,4 @@ E:\C#\Principal\Principal\bin\Debug\Principal.pdb
 E:\C#\Principal\Principal\obj\Debug\Principal.csproj.CoreCompileInputs.cache
 E:\C#\Principal\Principal\obj\Debug\Principal.exe
 E:\C#\Principal\Principal\obj\Debug\Principal.pdb
+E:\C#\Principal\Principal\obj\Debug\Principal.csprojAssemblyReference.cache
