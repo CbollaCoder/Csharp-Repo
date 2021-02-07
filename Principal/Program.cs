@@ -15,6 +15,8 @@ namespace Principal
             char letraB = 'b';
             float flotanteF = 12.35f;
 
+            Console.WriteLine("El entero es: {0}. La cadena es: {1}. La letra es: {2}. El flotante es: {3}.", numero,cadena,letraB,flotanteF);
+
             Console.WriteLine("El numero es: "+numero);
             Console.WriteLine("La cadena es: " +cadena);
             Console.WriteLine("La letra es: " + letraB);
