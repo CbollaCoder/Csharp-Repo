@@ -15,13 +15,31 @@ namespace Principal
             char letraB = 'b';
             float flotanteF = 12.35f;
 
+            Boolean res, res1, res2, res3, res4;
+
             Console.WriteLine("El entero es: {0}. La cadena es: {1}. La letra es: {2}. El flotante es: {3}.", numero,cadena,letraB,flotanteF);
 
             Console.WriteLine("El numero es: "+numero);
             Console.WriteLine("La cadena es: " +cadena);
             Console.WriteLine("La letra es: " + letraB);
             Console.WriteLine("El flotante es: " + flotanteF);
+
+            res = 5 > 4;
+            res1 = 8 < 1;
+            res2 = 8 <= 9;
+            res3 = 7 >= 7;
+            res4 = 3 == 3;
+
+            Console.WriteLine(res);
+            Console.WriteLine(res1);
+            Console.WriteLine(res2);
+            Console.WriteLine(res3);
+            Console.WriteLine(res4);
+
+
             Console.ReadKey();
+
+
         }
     }
 }
