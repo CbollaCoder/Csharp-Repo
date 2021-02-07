@@ -54,7 +54,25 @@ namespace Principal
             Console.WriteLine("Division: " + div);
             Console.WriteLine("Modulo: " + (a % b));
 
+
+            //ARRAY
+            int[] numeros = new int[4];
+
+            for (int i = 0; i <= 3; i++)
+            {
+                numeros[i] = Int32.Parse(Console.ReadLine());
+            }
+
+            for (int j = 0; j <= 3; j++)
+            {
+                Console.WriteLine(" " + numeros[j]);
+            }
+
             Console.ReadKey();
+        
+
+
+        Console.ReadKey();
 
 
         }
