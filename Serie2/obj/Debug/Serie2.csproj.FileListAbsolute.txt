@@ -1,0 +1,7 @@
+E:\C#\Principal\Serie2\bin\Debug\Serie2.exe.config
+E:\C#\Principal\Serie2\bin\Debug\Serie2.exe
+E:\C#\Principal\Serie2\bin\Debug\Serie2.pdb
+E:\C#\Principal\Serie2\obj\Debug\Serie2.csprojAssemblyReference.cache
+E:\C#\Principal\Serie2\obj\Debug\Serie2.csproj.CoreCompileInputs.cache
+E:\C#\Principal\Serie2\obj\Debug\Serie2.exe
+E:\C#\Principal\Serie2\obj\Debug\Serie2.pdb
