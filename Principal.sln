@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdenamientoBurbuja", "Orde
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serie2", "Serie2\Serie2.csproj", "{9827FBAB-C4F0-4E98-8332-3B0BDF5A79F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serie3", "Serie3\Serie3.csproj", "{FDDD9B19-2659-487F-92B6-E005D0E2775A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9827FBAB-C4F0-4E98-8332-3B0BDF5A79F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9827FBAB-C4F0-4E98-8332-3B0BDF5A79F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9827FBAB-C4F0-4E98-8332-3B0BDF5A79F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDDD9B19-2659-487F-92B6-E005D0E2775A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDDD9B19-2659-487F-92B6-E005D0E2775A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDDD9B19-2659-487F-92B6-E005D0E2775A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDD9B19-2659-487F-92B6-E005D0E2775A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

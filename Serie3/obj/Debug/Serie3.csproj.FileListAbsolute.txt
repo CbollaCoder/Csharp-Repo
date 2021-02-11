@@ -1,0 +1,7 @@
+E:\C#\Principal\Serie3\bin\Debug\Serie3.exe.config
+E:\C#\Principal\Serie3\bin\Debug\Serie3.exe
+E:\C#\Principal\Serie3\bin\Debug\Serie3.pdb
+E:\C#\Principal\Serie3\obj\Debug\Serie3.csprojAssemblyReference.cache
+E:\C#\Principal\Serie3\obj\Debug\Serie3.csproj.CoreCompileInputs.cache
+E:\C#\Principal\Serie3\obj\Debug\Serie3.exe
+E:\C#\Principal\Serie3\obj\Debug\Serie3.pdb
