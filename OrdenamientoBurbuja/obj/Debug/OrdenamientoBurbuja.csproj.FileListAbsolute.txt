@@ -1,0 +1,7 @@
+E:\C#\Principal\OrdenamientoBurbuja\bin\Debug\OrdenamientoBurbuja.exe.config
+E:\C#\Principal\OrdenamientoBurbuja\bin\Debug\OrdenamientoBurbuja.exe
+E:\C#\Principal\OrdenamientoBurbuja\bin\Debug\OrdenamientoBurbuja.pdb
+E:\C#\Principal\OrdenamientoBurbuja\obj\Debug\OrdenamientoBurbuja.csproj.CoreCompileInputs.cache
+E:\C#\Principal\OrdenamientoBurbuja\obj\Debug\OrdenamientoBurbuja.exe
+E:\C#\Principal\OrdenamientoBurbuja\obj\Debug\OrdenamientoBurbuja.pdb
+E:\C#\Principal\OrdenamientoBurbuja\obj\Debug\OrdenamientoBurbuja.csprojAssemblyReference.cache

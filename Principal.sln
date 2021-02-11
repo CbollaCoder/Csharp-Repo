@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principal", "Principal\Prin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerieAritmetica1", "SerieAritmetica1\SerieAritmetica1.csproj", "{9B6584B7-953C-4F43-B801-7A66EEB5B2E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{1A416483-C841-4B50-8BC3-6A6AA2BB8092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdenamientoBurbuja", "OrdenamientoBurbuja\OrdenamientoBurbuja.csproj", "{EBC1B6E7-96D5-42EC-AC7A-5CBF177269A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{9B6584B7-953C-4F43-B801-7A66EEB5B2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B6584B7-953C-4F43-B801-7A66EEB5B2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B6584B7-953C-4F43-B801-7A66EEB5B2E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A416483-C841-4B50-8BC3-6A6AA2BB8092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A416483-C841-4B50-8BC3-6A6AA2BB8092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A416483-C841-4B50-8BC3-6A6AA2BB8092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A416483-C841-4B50-8BC3-6A6AA2BB8092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC1B6E7-96D5-42EC-AC7A-5CBF177269A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC1B6E7-96D5-42EC-AC7A-5CBF177269A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC1B6E7-96D5-42EC-AC7A-5CBF177269A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC1B6E7-96D5-42EC-AC7A-5CBF177269A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
