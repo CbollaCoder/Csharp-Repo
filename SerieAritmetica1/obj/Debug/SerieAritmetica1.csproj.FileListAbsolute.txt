@@ -1,0 +1,7 @@
+E:\C#\Principal\SerieAritmetica1\bin\Debug\SerieAritmetica1.exe.config
+E:\C#\Principal\SerieAritmetica1\bin\Debug\SerieAritmetica1.exe
+E:\C#\Principal\SerieAritmetica1\bin\Debug\SerieAritmetica1.pdb
+E:\C#\Principal\SerieAritmetica1\obj\Debug\SerieAritmetica1.csprojAssemblyReference.cache
+E:\C#\Principal\SerieAritmetica1\obj\Debug\SerieAritmetica1.csproj.CoreCompileInputs.cache
+E:\C#\Principal\SerieAritmetica1\obj\Debug\SerieAritmetica1.exe
+E:\C#\Principal\SerieAritmetica1\obj\Debug\SerieAritmetica1.pdb
