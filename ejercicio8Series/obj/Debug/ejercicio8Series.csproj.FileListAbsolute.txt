@@ -1,0 +1,7 @@
+E:\C#\Principal\ejercicio8Series\bin\Debug\ejercicio8Series.exe.config
+E:\C#\Principal\ejercicio8Series\bin\Debug\ejercicio8Series.exe
+E:\C#\Principal\ejercicio8Series\bin\Debug\ejercicio8Series.pdb
+E:\C#\Principal\ejercicio8Series\obj\Debug\ejercicio8Series.csprojAssemblyReference.cache
+E:\C#\Principal\ejercicio8Series\obj\Debug\ejercicio8Series.csproj.CoreCompileInputs.cache
+E:\C#\Principal\ejercicio8Series\obj\Debug\ejercicio8Series.exe
+E:\C#\Principal\ejercicio8Series\obj\Debug\ejercicio8Series.pdb

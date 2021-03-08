@@ -1,0 +1,7 @@
+E:\C#\Principal\ejercicio5Series\bin\Debug\ejercicio5Series.exe.config
+E:\C#\Principal\ejercicio5Series\bin\Debug\ejercicio5Series.exe
+E:\C#\Principal\ejercicio5Series\bin\Debug\ejercicio5Series.pdb
+E:\C#\Principal\ejercicio5Series\obj\Debug\ejercicio5Series.csprojAssemblyReference.cache
+E:\C#\Principal\ejercicio5Series\obj\Debug\ejercicio5Series.csproj.CoreCompileInputs.cache
+E:\C#\Principal\ejercicio5Series\obj\Debug\ejercicio5Series.exe
+E:\C#\Principal\ejercicio5Series\obj\Debug\ejercicio5Series.pdb

@@ -1,0 +1,6 @@
+E:\C#\Principal\ejercicio3Series\bin\Debug\ejercicio3Series.exe.config
+E:\C#\Principal\ejercicio3Series\bin\Debug\ejercicio3Series.exe
+E:\C#\Principal\ejercicio3Series\bin\Debug\ejercicio3Series.pdb
+E:\C#\Principal\ejercicio3Series\obj\Debug\ejercicio3Series.csproj.CoreCompileInputs.cache
+E:\C#\Principal\ejercicio3Series\obj\Debug\ejercicio3Series.exe
+E:\C#\Principal\ejercicio3Series\obj\Debug\ejercicio3Series.pdb

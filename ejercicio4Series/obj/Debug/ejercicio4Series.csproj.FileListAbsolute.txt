@@ -1,0 +1,7 @@
+E:\C#\Principal\ejercicio4Series\bin\Debug\ejercicio4Series.exe.config
+E:\C#\Principal\ejercicio4Series\bin\Debug\ejercicio4Series.exe
+E:\C#\Principal\ejercicio4Series\bin\Debug\ejercicio4Series.pdb
+E:\C#\Principal\ejercicio4Series\obj\Debug\ejercicio4Series.csproj.CoreCompileInputs.cache
+E:\C#\Principal\ejercicio4Series\obj\Debug\ejercicio4Series.exe
+E:\C#\Principal\ejercicio4Series\obj\Debug\ejercicio4Series.pdb
+E:\C#\Principal\ejercicio4Series\obj\Debug\ejercicio4Series.csprojAssemblyReference.cache

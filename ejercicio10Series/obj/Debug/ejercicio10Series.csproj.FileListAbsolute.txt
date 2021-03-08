@@ -1,0 +1,7 @@
+E:\C#\Principal\ejercicio10Series\bin\Debug\ejercicio10Series.exe.config
+E:\C#\Principal\ejercicio10Series\bin\Debug\ejercicio10Series.exe
+E:\C#\Principal\ejercicio10Series\bin\Debug\ejercicio10Series.pdb
+E:\C#\Principal\ejercicio10Series\obj\Debug\ejercicio10Series.csprojAssemblyReference.cache
+E:\C#\Principal\ejercicio10Series\obj\Debug\ejercicio10Series.csproj.CoreCompileInputs.cache
+E:\C#\Principal\ejercicio10Series\obj\Debug\ejercicio10Series.exe
+E:\C#\Principal\ejercicio10Series\obj\Debug\ejercicio10Series.pdb

@@ -1,0 +1,7 @@
+E:\C#\Principal\ejercicio2Series\bin\Debug\ejercicio2Series.exe.config
+E:\C#\Principal\ejercicio2Series\bin\Debug\ejercicio2Series.exe
+E:\C#\Principal\ejercicio2Series\bin\Debug\ejercicio2Series.pdb
+E:\C#\Principal\ejercicio2Series\obj\Debug\ejercicio2Series.csproj.CoreCompileInputs.cache
+E:\C#\Principal\ejercicio2Series\obj\Debug\ejercicio2Series.exe
+E:\C#\Principal\ejercicio2Series\obj\Debug\ejercicio2Series.pdb
+E:\C#\Principal\ejercicio2Series\obj\Debug\ejercicio2Series.csprojAssemblyReference.cache
